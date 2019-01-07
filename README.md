@@ -54,28 +54,22 @@ I was quite nervous regarding the Agile Essay. I am quite confident in my writin
 
 ## Week 8
 
- 
+## Week 8
+
+The Agile Essay Review went well, I am quite satisfied with the final outcome. However, as I read in my feedback, I probably should have been more careful regarding the little details, such as the usage of images and footnotes. Other than that, I believe that I did quite well. As for Worksheet D, I am very happy with the implementation I came up with (and the fact that I solved it a week ago), but, as our lecturer pointed out, my solution could still be improved upon. I need to learn to spot similar functions that repeat over and over and merge them together for efficiency reason.
 
 ## Week 9
 
-and so on...
-
-Weekly journal goes here. Reflect.
+This week we had to present our Audio contracts, which were by far ine of the hardest assignments of this study block. I found it quite difficult to grasp the concepts of soundwaves and how they can be added together. Luckily, with my peers help I was able to get some basic code working, as well as some basic functionality for melody creation. I believe I should have spent more time researching music theory and trying to work on the fundamentals. Instead, I spent quite some time getting more ideas implemented in our game: among others, we got the movement system done (mostly), and I believe our inventory system should be done soon. Room progression is also in the making, but I will have to look into how to get that working first. I will watch some tutorials in that regard, hoping I can get some inspiration.
 
 ## Week 10
 
-and so on...
-
-Weekly journal goes here. Reflect.
+As I suspected, our team struggled with the Audio Contracts and it did show. I, for one, was a bit let down by my own performace, but I think I learned enough from it that I should be able to prevent such an outcome in the foreseeable future. Our Investment Pitches were alright, but I fear we may have focused on the game too much and forgot to actually work on the presentation, and it really showed. I was nervous throughout, stuttered a bit and I fear I may have let the others down. They were able to keep calm and I'm sure they did their best. Regardless, I will take note to not over prioritise certain tasks and forget about other, equally important ones.
 
 ## Week 11
 
-and so on...
-
-Weekly journal goes here. Reflect.
+We finally got to meet our new teams, and I am honeestly both thrilled and terrifed at the same time. On the one hand, meeting new people and working with different specializaation (arts, design, animation etc.) is sure to be an important step in our journey, but at the same time I am somewhat concerned about how we will interact with each other. Having learned Unity up to this point, and we having no Unreal experience at all, we are all in the same boat, really. Specifically, we have no idea how to begin. We tried to come up with some concepts, but as far as I can tell, we won't be able to agree on anything just yet. On a side note, I am quite sad to see the COMP150 game gone, I had lots of fun working on it and I'm sure we all did our best on it. I am satisfied with our accomplishments and I can only hope that our next project will be even better. We also had our first Unreal workshop, and I am honestly baffled by this engine. I learned C++ for quite some time, but I feel as if I knew nothing. This is, if nothing else, refreshing, as I also feel motivated to try and implement what I know.
 
 ## Week 12
 
-and so on...
-
-Weekly journal goes here. Reflect.
+Our final week before the holiday, our new team was able to settle on a concept Byron came up with that I strongly encouraged him to put forward as I really see it coming to fruition: Trains, in a Mad max environment - similar to "The Final Station", but in a 3D environment. This is a concept I can really get behind, although I would rather see it as a mobile game, rather than a PC-only game. Futhermore, our assessors for the pitches encouraged us to go for a mobile game, although I am quite stressed about the fact that Unreal doesn't have the best reputation in that regard. As for the team itself, I will try to apply what I learned in my previous project to understand each others strengths' and weaknesses so we can optimally share the workload in the future. Our second Unreal workshop was, well, quieter than the last, but I feel like I am starting to understand a bit of how Unreal treats object properties and how the Blueprint system works. Hopefully, this will help me when I work on the blueprints our designers be using to create the game world.
