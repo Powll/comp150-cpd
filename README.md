@@ -54,8 +54,6 @@ I was quite nervous regarding the Agile Essay. I am quite confident in my writin
 
 ## Week 8
 
-## Week 8
-
 The Agile Essay Review went well, I am quite satisfied with the final outcome. However, as I read in my feedback, I probably should have been more careful regarding the little details, such as the usage of images and footnotes. Other than that, I believe that I did quite well. As for Worksheet D, I am very happy with the implementation I came up with (and the fact that I solved it a week ago), but, as our lecturer pointed out, my solution could still be improved upon. I need to learn to spot similar functions that repeat over and over and merge them together for efficiency reason.
 
 ## Week 9
